@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Quantum Computing, React Native, and Deployment with Docker**
 - 👨‍💻 All of my projects are available at: [github.com/pragadeeshwaran7](https://github.com/pragadeeshwaran7)
 - 📫 How to reach me: **pragadeesh252612@gmail.com**
-- 📄 Check out my resume: [Google Drive Resume](https://drive.google.com/file/d/14XWonB2ELrD4kHlRawZdzlMZpikT_72o/view?usp=sharing)
+- 📄 Check out my resume: [Google Drive Resume](https://drive.google.com/file/d/1QEuM6Qpey9qADIPDi7oavTc3my6qThWk/view?usp=sharing)
 
 ---
 
