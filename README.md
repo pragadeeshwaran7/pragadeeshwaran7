@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **AI-based Intrusion Detection Systems and Skin Disease Detection using DIP & ML**
+- 🔭 I’m currently working on **Quantum Machine learning**
 - 🌱 I’m currently learning **Quantum Computing, React Native, and Deployment with Docker**
 - 👨‍💻 All of my projects are available at: [github.com/pragadeeshwaran7](https://github.com/pragadeeshwaran7)
 - 📫 How to reach me: **pragadeesh252612@gmail.com**
