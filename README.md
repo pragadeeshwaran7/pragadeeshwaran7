@@ -6,13 +6,13 @@
 **<div align="center">Hi :)</div>**  
   
 
-### <div align="center">I'm a Passionate ML & Web Developer from VIT Chennai, India</div>  
+### <div align="center">I'm a Passionate AI/ML & Full Stack Developer from VIT Chennai, India</div>  
   
 
 - 🔭 I’m currently working on Quantum optimization of ML Models  
   
 
-- 🌱 I’m currently learning AI agents, Docker and Kubernetes  
+- 🌱 I’m currently learning React Native, AI agents, Docker and Kubernetes  
   
 
 <br/>  
